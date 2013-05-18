@@ -3,9 +3,9 @@
 # ----------------------- #
 
 url: http://WebAppsProduction.github.io
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+title: Web Apps Blog
+subtitle: A blog about web apps. Doing it my way .
+author: Tudor Campean
 simple_search: http://google.com/search
 description:
 
@@ -94,7 +94,7 @@ disqus_short_name:
 disqus_show_comment_count: false
 
 # Google Analytics
-google_analytics_tracking_id:
+google_analytics_tracking_id: UA-40973768-1
 
 # Facebook Like
 facebook_like: false
